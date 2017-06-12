@@ -24,6 +24,18 @@ class TimerController : Controller() {
 
     }
 
+    fun startTimer() {
+
+    }
+
+    fun pauseTimer() {
+
+    }
+
+    fun stopTimer() {
+
+    }
+
     companion object {
         val TASK = "task"
     }
